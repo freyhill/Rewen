@@ -8,7 +8,7 @@
     "url": "https://github.com/leinov/Rewen"
   },
   "scripts": {
-    "start": "node dev-server",
+    "start": "node server-dev",
     "dev-bundle": "webpack --progress --config webpack.config.dev.js",
     "compile": "webpack --progress --config webpack.config.js"
    },
