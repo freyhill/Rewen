@@ -1,5 +1,5 @@
 /**
- * Created by youyifan on 2016/8/12.
+ *  webpack production
  */
 var fs = require('fs');
 var path = require('path');

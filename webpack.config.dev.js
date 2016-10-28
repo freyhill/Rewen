@@ -1,5 +1,5 @@
 /**
- * Created by youyifan on 2016/8/12.
+ * webpack development
  */
 var path = require('path');
 var webpack = require('webpack');
