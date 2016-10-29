@@ -4,10 +4,13 @@
 ### Use
 
 > clone 
+
 ```
 git clone git@github.com:leinov/Rewen.git
 ```
+
 > install node pacakge
+
 ```
 npm install
 ```
